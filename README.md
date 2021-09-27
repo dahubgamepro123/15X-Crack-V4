@@ -1,0 +1,1 @@
+# Hello so they still use the same whitelist (KEY, USERID) it's static and shit they do checks in client which is easily bypassable by simple game.Players.LocalPlayer.UserId = integer which is whitelisted or just hook the database but i used a VM vul. for cracking it idrk if they have an iplogger but seems like they do not have (CRACK IS UNPATCHABLE enjoy ur fun)
